@@ -21,8 +21,7 @@ Aspek-aspek kualitas SIAKAD, yaitu:
 ### Variabel Y:
 - P10 (Kepuasan mahasiswa terhadap penggunaan SIAKAD)
 ## Hasil dan Pembahasan 
-### Uji Validitas 
-## 📊 Uji Validitas Instrumen  
+### Uji Validitas  
 
 | No | Item | r Hitung | r Tabel (n=31, α=0.05) | Keterangan |
 |:--:|:----:|:--------:|:----------------------:|:----------:|
@@ -40,8 +39,6 @@ Aspek-aspek kualitas SIAKAD, yaitu:
 Berdasarkan hasil uji validitas, seluruh item pertanyaan (P1–P10) memiliki nilai r hitung yang lebih besar dari r tabel (0,250). Hal ini menunjukkan bahwa setiap item mampu mengukur variabel kepuasan dengan baik, sehingga seluruh instrumen dinyatakan valid dan layak digunakan dalam penelitian.
 
 ### Uji Reabilitas 
-## 📊 Uji Reliabilitas  
-
 | Cronbach’s Alpha | Jumlah Item | Keterangan        |
 |:----------------:|:-----------:|:------------------:|
 | 0.924            | 10          | Sangat Reliabel   |
@@ -50,72 +47,83 @@ Hasil uji reliabilitas menunjukkan nilai Cronbach’s Alpha sebesar 0,924, yang 
 
 ### Analisis Deskriptif
 Analisis deskriptif digunakan untuk menggambarkan distribusi jawaban responden melalui tabel frekuensi, persentase, dan grafik.
-### Naive Estimation
-Naive estimation digunakan untuk menghitung proporsi kepuasan secara sederhana, yaitu:
-## 📊Tabel Naive Estimation  
+### Tabel Frekuensi Responden  
+| Item | Sangat Tidak Puas | Tidak Puas | Netral | Puas | Sangat Puas |
+|------|------------------|------------|--------|------|-------------|
+| P1   | 0 | 0 | 16 | 38 | 8 |
+| P2   | 0 | 3 | 16 | 33 | 10 |
+| P3   | 0 | 1 | 14 | 35 | 12 |
+| P4   | 0 | 1 | 21 | 30 | 10 |
+| P5   | 0 | 2 | 21 | 29 | 10 |
+| P6   | 0 | 1 | 13 | 34 | 14 |
+| P7   | 0 | 0 | 12 | 37 | 13 |
+| P8   | 0 | 2 | 11 | 39 | 10 |
+| P9   | 0 | 1 | 12 | 34 | 15 |
+| P10  | 0 | 1 | 11 | 37 | 13 |
 
-| Item | Puas | Sangat Puas | Total Puas | p̂    | Keterangan     |
-|:------:|------|------------|-----------|-------|----------------|
-| P1   | 38   | 8          | 46        | 0.742 | Tinggi         |
-| P2   | 33   | 10         | 43        | 0.694 | Cukup Tinggi   |
-| P3   | 35   | 12         | 47        | 0.758 | Tinggi         |
-| P4   | 30   | 10         | 40        | 0.645 | Cukup          |
-| P5   | 29   | 10         | 39        | 0.629 | Cukup          |
-| P6   | 34   | 14         | 48        | 0.774 | Tinggi         |
-| P7   | 37   | 13         | 50        | 0.806 | Sangat Tinggi  |
-| P8   | 39   | 10         | 49        | 0.790 | Tinggi         |
-| P9   | 34   | 15         | 49        | 0.790 | Tinggi         |
-| P10  | 37   | 13         | 50        | 0.806 | Sangat Tinggi  |
+Berdasarkan tabel frekuensi, kategori *puas* dan *sangat puas* mendominasi seluruh item pertanyaan (P1–P10). Kategori *netral* masih muncul namun lebih kecil, sedangkan *tidak puas* dan *sangat tidak puas* sangat minim.  Hal ini menunjukkan bahwa tingkat kepuasan mahasiswa terhadap SIAKAD tergolong tinggi.
 
-**Keterangan:**
-- p̂ = Total Puas / 62  
-- Kategori:
-  - ≥ 0.80 = Sangat Tinggi  
-  - 0.70–0.79 = Tinggi  
-  - 0.60–0.69 = Cukup  
+### Tabel Persentase Tingjat Kepuasan Per Item 
+| Item | Sangat Tidak Puas (%) | Tidak Puas (%) | Netral (%) | Puas (%) | Sangat Puas (%) |
+|------|----------------------|----------------|------------|----------|-----------------|
+| P1   | 0.0 | 0.0 | 25.8 | 61.3 | 12.9 |
+| P2   | 0.0 | 4.8 | 25.8 | 53.2 | 16.7 |
+| P3   | 0.0 | 1.6 | 22.6 | 56.5 | 19.4 |
+| P4   | 0.0 | 1.6 | 33.9 | 48.4 | 16.7 |
+| P5   | 0.0 | 0.0 | 33.9 | 48.4 | 16.7 |
+| P6   | 0.0 | 0.0 | 21.0 | 54.8 | 22.6 |
+| P7   | 0.0 | 0.0 | 19.4 | 62.9 | 16.1 |
+| P8   | 0.0 | 3.2 | 17.7 | 62.9 | 16.1 |
+| P9   | 0.0 | 1.6 | 19.4 | 54.8 | 24.2 |
+| P10  | 0.0 | 1.6 | 17.7 | 59.7 | 21.0 |
 
-Berdasarkan hasil naive estimation, sebagian besar item memiliki nilai proporsi di atas 0,7 yang menunjukkan bahwa tingkat kepuasan mahasiswa terhadap SIAKAD tergolong tinggi. Nilai tertinggi terdapat pada P7 dan P10, sedangkan nilai terendah terdapat pada P5. Hal ini menunjukkan bahwa secara umum sistem telah berjalan dengan baik, namun masih terdapat beberapa aspek yang perlu ditingkatkan untuk meningkatkan kepuasan pengguna secara menyeluruh.
+Berdasarkan tabel persentase, kategori *puas* merupakan yang paling dominan pada seluruh item (P1–P10), diikuti oleh kategori *sangat puas*. Kategori *netral* masih muncul dalam jumlah sedang, sedangkan *tidak puas* dan *sangat tidak puas* memiliki persentase yang sangat kecil. Hal ini menunjukkan bahwa tingkat kepuasan mahasiswa terhadap SIAKAD berada pada kategori tinggi.
+
+## Naive Estimation  
+### Tabel Estimasi Naive  
+
+| Metode Estimasi | Nilai Estimasi | Persentase | Keterangan |
+|----------------|---------------|------------|------------|
+| Naive Estimate | 0.743 | 74.35% | Mahasiswa cenderung puas |
+
+Berdasarkan hasil naive estimation, diperoleh nilai sebesar **0,743** atau **74,35%**. Hal ini menunjukkan bahwa sebagian besar mahasiswa cenderung merasa puas terhadap penggunaan Sistem Informasi Akademik (SIAKAD) di Universitas Mataram.  Namun, nilai tersebut masih merupakan estimasi sederhana yang belum mempertimbangkan struktur populasi secara proporsional, sehingga masih terdapat potensi bias akibat penggunaan data sampel langsung tanpa pembobotan.
 
 ### Weighted estimation
-Weighted estimation digunakan untuk mengurangi bias akibat teknik convenience sampling.
-### Data  
-- Populasi:
-  - Laki-laki = 30  
-  - Perempuan = 124  
-  - Total = 154  
-- Sampel:
-  - Laki-laki = 9  
-  - Perempuan = 53  
-  - Total = 62  
-### Rumus  
-wᵢ = (Proporsi Populasi) / (Proporsi Sampel)
-## 📊 Weighted Estimation
-### Tabel Pembobotan  
+### Diketahui  
+Komposisi populasi terdiri dari:  
+- Laki-laki = 30 (19.5%)  
+- Perempuan = 124 (80.5%)  
+Jumlah sampel:  
+- n = 62  
+- Laki-laki = 9  
+- Perempuan = 53  
+Kriteria kepuasan:  
+- Skor 4 dan 5 = Puas dan Sangat Puas  
 
-| Jenis Kelamin | Populasi | Proporsi Populasi | Sampel | Proporsi Sampel | Weight (wᵢ) |
-|:-------------:|:--------:|:-----------------:|:------:|:---------------:|:-----------:|
-| Laki-laki     | 30       | 0.195             | 9      | 0.145           | 1.34        |
-| Perempuan     | 124      | 0.805             | 53     | 0.855           | 0.94        |
+### Tabel Pembobotan Berdasarkan Gender  
 
-Responden laki-laki memiliki bobot lebih besar karena jumlahnya lebih sedikit dalam sampel dibandingkan dengan populasi. Sebaliknya, responden perempuan memiliki bobot lebih kecil karena jumlahnya lebih banyak dalam sampel.  
-Hal ini menunjukkan bahwa pembobotan diperlukan untuk menyesuaikan distribusi sampel agar lebih representatif terhadap populasi.
+| Gender     | Proporsi Kepuasan (4–5) | Proporsi Populasi | Weighted Contribution |
+|------------|------------------------|-------------------|----------------------|
+| Laki-laki  | 0.78                   | 0.195             | 0.152                |
+| Perempuan  | 0.74                   | 0.805             | 0.596                |
+| **Total Weighted Estimate** | - | - | **0.748 (74.8%)** | 
 
-## 📊 Tabel Perbandingan Naive dan Weighted Estimation  
+Berdasarkan hasil weighted estimation, tingkat kepuasan mahasiswa terhadap SIAKAD adalah sebesar **0,748 atau 74,8%**.  
 
-| Variabel | Naive Mean | Weighted Mean | Selisih (NE - WE) |
-|:--------:|:----------:|:-------------:|:-----------------:|
-| P1       | 3.871      | 3.872         | -0.001            |
-| P2       | 3.806      | 3.798         | 0.008             |
-| P3       | 3.935      | 3.933         | 0.003             |
-| P4       | 3.790      | 3.796         | -0.006            |
-| P5       | 3.758      | 3.753         | 0.005             |
-| P6       | 3.984      | 3.972         | 0.012             |
-| P7       | 4 .016      | 4.009         | 0.007             |
-| P8       | 3.919      | 3.924         | -0.005            |
-| P9       | 4.016      | 4.015         | 0.001             |
-| P10      | 4.000      | 3.974         | 0.026             |
+Hasil ini diperoleh dengan mempertimbangkan perbedaan proporsi gender antara sampel dan populasi serta hanya menggunakan respon dengan kategori **puas (4)** dan **sangat puas (5)**.  
 
-Berdasarkan tabel perbandingan, nilai naive mean dan weighted mean pada setiap variabel menunjukkan perbedaan yang sangat kecil, dengan selisih yang mendekati nol. Hal ini menunjukkan bahwa pembobotan tidak memberikan perubahan yang signifikan terhadap hasil estimasi. Perbedaan terbesar terdapat pada variabel P10, namun nilainya masih relatif kecil sehingga tidak mempengaruhi kesimpulan secara keseluruhan. Dengan demikian, dapat disimpulkan bahwa data sampel sudah cukup representatif terhadap populasi, dan tingkat kepuasan mahasiswa terhadap SIAKAD tergolong tinggi.
+Kontribusi terbesar berasal dari responden perempuan sebesar 0,596, sedangkan responden laki-laki memberikan kontribusi sebesar 0,152 terhadap estimasi keseluruhan.
+
+## Tabel Perbandingan Naive dan Weighted Estimation  
+
+| Metode Estimasi     | Nilai Estimasi | Persentase |
+|---------------------|----------------|------------|
+| Naive Estimate      | 0,7435         | 74,35%     |
+| Weighted Estimate   | 0,7480         | 74,8%      |
+
+Berdasarkan hasil perbandingan, nilai weighted estimate sebesar 74,8% sedikit lebih tinggi dibandingkan naive estimate sebesar 74,35%.  
+
+Hal ini menunjukkan bahwa setelah dilakukan pembobotan berdasarkan proporsi gender, tingkat kepuasan mahasiswa sedikit meningkat dan menjadi lebih representatif terhadap populasi. Perbedaan kedua nilai tersebut sangat kecil sehingga dapat disimpulkan bahwa hasil estimasi relatif stabil.
 
 ### Grafik Deskriptif
 
