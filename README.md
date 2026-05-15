@@ -125,6 +125,7 @@ Berdasarkan hasil perbandingan, nilai weighted estimate sebesar 74,8% sedikit le
 
 Hal ini menunjukkan bahwa setelah dilakukan pembobotan berdasarkan proporsi gender, tingkat kepuasan mahasiswa sedikit meningkat dan menjadi lebih representatif terhadap populasi. Perbedaan kedua nilai tersebut sangat kecil sehingga dapat disimpulkan bahwa hasil estimasi relatif stabil.
 
-### Grafik Deskriptif
+## Kesimpulan
 
-### Grafik Estimasi
+Berdasarkan hasil analisis yang telah dilakukan, diperoleh nilai naive estimate sebesar 74,35% dan weighted estimate sebesar 74,8%. Kedua hasil tersebut menunjukkan bahwa tingkat kepuasan mahasiswa terhadap kondisi lingkungan kampus FMIPA Universitas Mataram berada pada kategori tinggi.
+Perbedaan antara naive estimate dan weighted estimate sangat kecil, namun weighted estimate dianggap lebih representatif karena telah mempertimbangkan proporsi gender dalam populasi. Dengan demikian, dapat disimpulkan bahwa mahasiswa cenderung puas terhadap kondisi lingkungan kampus.
